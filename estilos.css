@@ -1,0 +1,26 @@
+input{
+    margin: 5px;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+}
+
+body{
+    width: 1400px;
+    height: 600px;
+    background-color: rgb(12, 10, 53);
+
+
+}
+.formulario{
+
+    margin-top:200px;
+    margin-left:466.6px;
+    margin-right:466.6px;
+
+
+    text-align: center;
+    border:4px rgb(255, 255, 255) solid;
+    background-color: rgb(1, 145, 228);
+}
